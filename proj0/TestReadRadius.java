@@ -19,7 +19,7 @@ public class TestReadRadius {
             System.out.println("FAIL: " + label + ": Expected " + expected + " and you gave " + actual);
         }
     }
-
+    
     /**
      *  Checks the NBody.readRadius() method.
      */

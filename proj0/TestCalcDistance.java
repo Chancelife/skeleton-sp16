@@ -40,4 +40,5 @@ public class TestCalcDistance {
         checkEquals(p1.calcDistance(p2), 1.0, "calcDistance()", 0.01);
         checkEquals(p1.calcDistance(p3), 5.0, "calcDistance()", 0.01);
     }
+    
 }
