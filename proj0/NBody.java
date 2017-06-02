@@ -69,6 +69,7 @@ public class NBody {
 				StdDraw.show(10);
 				time += dt;
 			}
+			//Audio close
 			StdAudio.close();
 			StdOut.printf("%d\n", P.length);
 			StdOut.printf("%.2e\n", r);
